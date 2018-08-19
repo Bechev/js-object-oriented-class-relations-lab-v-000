@@ -1,4 +1,4 @@
-let store = {drivers:[], trips[]}
+let store = {drivers: [], trips: []}
 
 let driverId = 0;
 class Driver {
